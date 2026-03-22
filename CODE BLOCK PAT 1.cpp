@@ -9,7 +9,7 @@ int main()
     int temp 3
 
 
-    cout << "enter the first temperature reading" << endl;
+    cout << "enter the first temperature reading" << endl;// thato
     cin >> temp 1;
 
     cout << "enter the second temperature reading" << endl;

@@ -17,7 +17,7 @@ int main()
 
     int increase = temp 2 - temp 1;// bejx
 
-    if (increase >50) {
+    if (increase >50) {//'yuy9
         cout << "reduce fryer heat before taking the third reading." <<endl;
     }
     if (increase <10) {

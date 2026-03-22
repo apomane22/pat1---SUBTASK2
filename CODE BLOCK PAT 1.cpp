@@ -12,7 +12,7 @@ int main()
     cout << "enter the first temperature reading" << endl;// thato
     cin >> temp 1;
 
-    cout << "enter the second temperature reading" << endl;
+    cout << "enter the second temperature reading" << endl;//daniel
     cin >> temp 2;
 
     int increase = temp 2 - temp 1;

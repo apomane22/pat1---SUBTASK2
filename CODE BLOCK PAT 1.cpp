@@ -15,7 +15,7 @@ int main()
     cout << "enter the second temperature reading" << endl;//daniel
     cin >> temp 2;
 
-    int increase = temp 2 - temp 1;
+    int increase = temp 2 - temp 1;// bejx
 
     if (increase >50) {
         cout << "reduce fryer heat before taking the third reading." <<endl;

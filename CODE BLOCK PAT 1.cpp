@@ -21,7 +21,7 @@ int main()
         cout << "reduce fryer heat before taking the third reading." <<endl;
     }
     if (increase <10) {
-        cout << "increase the fryer heat before taking the third reading." <<endl;
+        cout << "increase the fryer heat before taking the third reading." <<endl;//yghu
 
     }
     cout << "enter the third temperature reading: ";
